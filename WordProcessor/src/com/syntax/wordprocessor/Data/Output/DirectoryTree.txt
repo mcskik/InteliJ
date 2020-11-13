@@ -1,0 +1,32 @@
+Full Directory Tree Listing
+---------------------------
+FILE : C:\_Intelij\WordProcessor\src\com\syntax\wordprocessor\Data\Input\InputAmounts.txt, Bytes : 419
+FILE : C:\_Intelij\WordProcessor\src\com\syntax\wordprocessor\Data\Input\InputList.txt, Bytes : 154
+FILE : C:\_Intelij\WordProcessor\src\com\syntax\wordprocessor\Data\Input\InputText.txt, Bytes : 25563
+FILE : C:\_Intelij\WordProcessor\src\com\syntax\wordprocessor\Data\Input\InputTextLong.txt, Bytes : 25016
+
+DIR  : C:\_Intelij\WordProcessor\src\com\syntax\wordprocessor\Data\Input\syntax
+-------------------------------------------------------------------------------
+FILE : C:\_Intelij\WordProcessor\src\com\syntax\wordprocessor\Data\Input\syntax\Main.java, Bytes : 128
+
+DIR  : C:\_Intelij\WordProcessor\src\com\syntax\wordprocessor\Data\Input\syntax\common
+--------------------------------------------------------------------------------------
+
+DIR  : C:\_Intelij\WordProcessor\src\com\syntax\wordprocessor\Data\Input\syntax\common\constants
+------------------------------------------------------------------------------------------------
+FILE : C:\_Intelij\WordProcessor\src\com\syntax\wordprocessor\Data\Input\syntax\common\constants\Constants.java, Bytes : 971
+
+DIR  : C:\_Intelij\WordProcessor\src\com\syntax\wordprocessor\Data\Input\syntax\models
+--------------------------------------------------------------------------------------
+FILE : C:\_Intelij\WordProcessor\src\com\syntax\wordprocessor\Data\Input\syntax\models\Basics.java, Bytes : 10716
+FILE : C:\_Intelij\WordProcessor\src\com\syntax\wordprocessor\Data\Input\syntax\models\Methods.java, Bytes : 1119
+
+DIR  : C:\_Intelij\WordProcessor\src\com\syntax\wordprocessor\Data\Input\syntax\objects
+---------------------------------------------------------------------------------------
+FILE : C:\_Intelij\WordProcessor\src\com\syntax\wordprocessor\Data\Input\syntax\objects\Car.java, Bytes : 906
+FILE : C:\_Intelij\WordProcessor\src\com\syntax\wordprocessor\Data\Input\syntax\objects\ComponentItem.java, Bytes : 935
+FILE : C:\_Intelij\WordProcessor\src\com\syntax\wordprocessor\Data\Input\syntax\objects\ComponentPart.java, Bytes : 869
+FILE : C:\_Intelij\WordProcessor\src\com\syntax\wordprocessor\Data\Input\syntax\objects\MotorVehicle.java, Bytes : 2254
+FILE : C:\_Intelij\WordProcessor\src\com\syntax\wordprocessor\Data\Input\syntax\objects\PrivateVehicle.java, Bytes : 768
+
+Total Bytes = 69818

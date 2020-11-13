@@ -1,0 +1,7 @@
+Statistics
+-------------------------------------
+Character Count           = 25389
+Non-Space Character Count = 20923
+Line Count                = 88
+Word Count                = 4016
+Total Amount              = 2614.97

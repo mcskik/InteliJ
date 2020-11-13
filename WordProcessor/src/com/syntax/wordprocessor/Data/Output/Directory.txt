@@ -1,0 +1,22 @@
+Directory Listing
+-----------------
+Entry : C:\_Intelij\WordProcessor\src\com\syntax\wordprocessor\Data\Input\InputAmounts.txt, Bytes : 419
+Entry : C:\_Intelij\WordProcessor\src\com\syntax\wordprocessor\Data\Input\InputList.txt, Bytes : 154
+Entry : C:\_Intelij\WordProcessor\src\com\syntax\wordprocessor\Data\Input\InputText.txt, Bytes : 25563
+Entry : C:\_Intelij\WordProcessor\src\com\syntax\wordprocessor\Data\Input\InputTextLong.txt, Bytes : 25016
+Entry : C:\_Intelij\WordProcessor\src\com\syntax\wordprocessor\Data\Input\syntax, Bytes : 0
+Entry : C:\_Intelij\WordProcessor\src\com\syntax\wordprocessor\Data\Input\syntax\Main.java, Bytes : 128
+Entry : C:\_Intelij\WordProcessor\src\com\syntax\wordprocessor\Data\Input\syntax\common, Bytes : 0
+Entry : C:\_Intelij\WordProcessor\src\com\syntax\wordprocessor\Data\Input\syntax\common\constants, Bytes : 0
+Entry : C:\_Intelij\WordProcessor\src\com\syntax\wordprocessor\Data\Input\syntax\common\constants\Constants.java, Bytes : 971
+Entry : C:\_Intelij\WordProcessor\src\com\syntax\wordprocessor\Data\Input\syntax\models, Bytes : 0
+Entry : C:\_Intelij\WordProcessor\src\com\syntax\wordprocessor\Data\Input\syntax\models\Basics.java, Bytes : 10716
+Entry : C:\_Intelij\WordProcessor\src\com\syntax\wordprocessor\Data\Input\syntax\models\Methods.java, Bytes : 1119
+Entry : C:\_Intelij\WordProcessor\src\com\syntax\wordprocessor\Data\Input\syntax\objects, Bytes : 4096
+Entry : C:\_Intelij\WordProcessor\src\com\syntax\wordprocessor\Data\Input\syntax\objects\Car.java, Bytes : 906
+Entry : C:\_Intelij\WordProcessor\src\com\syntax\wordprocessor\Data\Input\syntax\objects\ComponentItem.java, Bytes : 935
+Entry : C:\_Intelij\WordProcessor\src\com\syntax\wordprocessor\Data\Input\syntax\objects\ComponentPart.java, Bytes : 869
+Entry : C:\_Intelij\WordProcessor\src\com\syntax\wordprocessor\Data\Input\syntax\objects\MotorVehicle.java, Bytes : 2254
+Entry : C:\_Intelij\WordProcessor\src\com\syntax\wordprocessor\Data\Input\syntax\objects\PrivateVehicle.java, Bytes : 768
+
+Total Bytes = 73914

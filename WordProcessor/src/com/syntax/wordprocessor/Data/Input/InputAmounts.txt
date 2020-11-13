@@ -1,0 +1,20 @@
+Mortgage,1225.50
+Car Loan,250.34
+Car Insurance,30.99
+Breakdown Insurance,25.50
+Home Insurance,28.78
+Life Insurance,75.75
+Broadband,60.25
+TV Subscription,55.75
+TV License,13.20
+Netflix,16.33333333333
+Amazon,7.50
+Spotify,14.99
+Electricity Bill,100.33333333333
+Gas Bill,35.85
+Water Bill,47.33333333333
+Boiler Maintenance,38.33333333333
+Gym Membership,24.69
+Lottery,45.00
+Dentist,18.30
+Supermarket,500.25

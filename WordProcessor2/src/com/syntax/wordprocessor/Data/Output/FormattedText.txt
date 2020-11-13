@@ -1,0 +1,13 @@
+Original  Character Count           = 25363
+Original  Non-Space Character Count = 20897
+Original  Line Count                = 88
+Original  Word Count                = 0
+
+Formatted Character Count           = 0
+Formatted Non-Space Character Count = 0
+Formatted Line Count                = 0
+Formatted Word Count                = 0
+
+Started At   : yyyy/MM/dd HH:mm:ss <-- Replace this with formatted startDateTime
+Ended   At   : yyyy/MM/dd HH:mm:ss <-- Replace this with formatted endDateTime
+Elapsed Time : HH:mm:ss <-- Uncomment the line below when the start and end DateTimes have been added.

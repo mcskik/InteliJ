@@ -1,0 +1,68 @@
+HashMap
+-------------------------------------
+Name = Netflix, Amount = 16.33333333333
+Name = Gas Bill, Amount = 35.85
+Name = Gym Membership, Amount = 24.69
+Name = Car Insurance, Amount = 30.99
+Name = Life Insurance, Amount = 75.75
+Name = Broadband, Amount = 60.25
+Name = Car Loan, Amount = 250.34
+Name = TV License, Amount = 13.2
+Name = Dentist, Amount = 18.3
+Name = Supermarket, Amount = 500.25
+Name = Spotify, Amount = 14.99
+Name = Home Insurance, Amount = 28.78
+Name = Breakdown Insurance, Amount = 25.5
+Name = Electricity Bill, Amount = 100.33333333333
+Name = Mortgage, Amount = 1225.5
+Name = Lottery, Amount = 45.0
+Name = TV Subscription, Amount = 55.75
+Name = Amazon, Amount = 7.5
+Name = Water Bill, Amount = 47.33333333333
+Name = Boiler Maintenance, Amount = 38.33333333333
+
+TreeMap
+-------------------------------------
+Name = Amazon, Amount = 7.5
+Name = Boiler Maintenance, Amount = 38.33333333333
+Name = Breakdown Insurance, Amount = 25.5
+Name = Broadband, Amount = 60.25
+Name = Car Insurance, Amount = 30.99
+Name = Car Loan, Amount = 250.34
+Name = Dentist, Amount = 18.3
+Name = Electricity Bill, Amount = 100.33333333333
+Name = Gas Bill, Amount = 35.85
+Name = Gym Membership, Amount = 24.69
+Name = Home Insurance, Amount = 28.78
+Name = Life Insurance, Amount = 75.75
+Name = Lottery, Amount = 45.0
+Name = Mortgage, Amount = 1225.5
+Name = Netflix, Amount = 16.33333333333
+Name = Spotify, Amount = 14.99
+Name = Supermarket, Amount = 500.25
+Name = TV License, Amount = 13.2
+Name = TV Subscription, Amount = 55.75
+Name = Water Bill, Amount = 47.33333333333
+
+Accounts
+-------------------------------------
+Name = Mortgage, Amount = 1225.5
+Name = Car Loan, Amount = 250.34
+Name = Car Insurance, Amount = 30.99
+Name = Breakdown Insurance, Amount = 25.5
+Name = Home Insurance, Amount = 28.78
+Name = Life Insurance, Amount = 75.75
+Name = Broadband, Amount = 60.25
+Name = TV Subscription, Amount = 55.75
+Name = TV License, Amount = 13.2
+Name = Netflix, Amount = 16.33333333333
+Name = Amazon, Amount = 7.5
+Name = Spotify, Amount = 14.99
+Name = Electricity Bill, Amount = 100.33333333333
+Name = Gas Bill, Amount = 35.85
+Name = Water Bill, Amount = 47.33333333333
+Name = Boiler Maintenance, Amount = 38.33333333333
+Name = Gym Membership, Amount = 24.69
+Name = Lottery, Amount = 45.0
+Name = Dentist, Amount = 18.3
+Name = Supermarket, Amount = 500.25
